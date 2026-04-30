@@ -29,7 +29,7 @@ st.markdown("""
     --gold:       #d4a017;
     --cream:      #f8f4ec;
     --text-dark:  #1c1c1c;
-}
+} 
 
 html, body, [class*="css"] {
     font-family: 'DM Sans', sans-serif;
